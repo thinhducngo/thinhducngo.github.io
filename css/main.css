@@ -1307,37 +1307,29 @@ ul.social-links li:last-child a {
   width: 0;
 }
 
-/*Skill 1*/
-.skill-percentage.skill-1 {
-  width: 88%;
-}
-/*Skill 2*/
-.skill-percentage.skill-2 {
-  width: 75%;
-}
-/*Skill 3*/
-.skill-percentage.skill-3 {
-  width: 60%;
-}
-/*Skill 4*/
-.skill-percentage.skill-4 {
+/*Skill 95*/
+.skill-percentage.skill-95 {
   width: 95%;
 }
-/*Skill 5*/
-.skill-percentage.skill-5 {
+/*Skill 90*/
+.skill-percentage.skill-90 {
+  width: 90%;
+}
+/*Skill 85*/
+.skill-percentage.skill-85 {
   width: 85%;
 }
-/*Skill 6*/
-.skill-percentage.skill-6 {
-  width: 72%;
+/*Skill 80*/
+.skill-percentage.skill-80 {
+  width: 80%;
 }
-/*Skill 7*/
-.skill-percentage.skill-7 {
-  width: 60%;
+/*Skill 75*/
+.skill-percentage.skill-75 {
+  width: 75%;
 }
-/*Skill 8*/
-.skill-percentage.skill-8 {
-  width: 77%;
+/*Skill 65*/
+.skill-percentage.skill-65 {
+  width: 65%;
 }
 /* Skills */
 

@@ -6,6 +6,12 @@
 		"symbol": "BSKT"
 	},
 	{
+		"address": "DQstWbfrLcadh1d8QEvqsDeB7dXiRDmuC8jLKesAAYEC",
+		"decimals": 8,
+		"name": "CHURRO",
+		"symbol": "CHURRO"
+	},
+	{
 		"address": "JBbHqqFuidmEdAVEafnEKQmLMuomAQc5hteeAvtqCijL",
 		"decimals": 9,
 		"name": "DRAKE",

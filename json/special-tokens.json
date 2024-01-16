@@ -24,6 +24,12 @@
 		"symbol": "MYRA"
 	},
 	{
+		"address": "JxxWsvm9jHt4ah7DT9NuLyVLYZcZLUdPD93PcPQ71Ka",
+		"decimals": 9,
+		"name": "mockJUP",
+		"symbol": "mockJUP"
+	},
+	{
 		"address": "JAmcJfhcJXrAP2neAHwBhajjmqUqPQt8Nyc42WH4LpUx",
 		"decimals": 9,
 		"name": "PLZ",

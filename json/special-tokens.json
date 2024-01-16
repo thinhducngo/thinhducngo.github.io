@@ -28,5 +28,11 @@
 		"decimals": 6,
 		"name": "SFarm",
 		"symbol": "SFarm"
+	},
+	{
+		"address": "CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL",
+		"decimals": 5,
+		"name": "YE",
+		"symbol": "YE"
 	}
 ]

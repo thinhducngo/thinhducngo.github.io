@@ -18,6 +18,12 @@
 		"symbol": "DRAKE"
 	},
 	{
+		"address": "4J7TFP64wxUuV4C8fBQmEkQTvcEXcswfG2HCSuP1nK4J",
+		"decimals": 9,
+		"name": "HOPPY",
+		"symbol": "HOPPY"
+	},
+	{
 		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
 		"decimals": 9,
 		"name": "MYRA",
@@ -40,6 +46,12 @@
 		"decimals": 9,
 		"name": "REUBEN",
 		"symbol": "REUBEN"
+	},
+	{
+		"address": "HTZAzMaYzqwzTw2iH4o7wVDa1nNWmxJyXNQRgvioHPTy",
+		"decimals": 9,
+		"name": "SAGA",
+		"symbol": "SAGA"
 	},
 	{
 		"address": "BjBzvw6VX7UJtrC7BaYLG1dHBiwrXP1T9j2YfDEdP4zU",

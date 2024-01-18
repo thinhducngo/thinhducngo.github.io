@@ -1,5 +1,11 @@
 [
 	{
+		"address": "E4Q5pLaEiejwEQHcM9GeYSQfMyGy8DJ4bPWgeYthn24v",
+		"decimals": 9,
+		"name": "Ada",
+		"symbol": "ADA"
+	},
+	{
 		"address": "6gnCPhXtLnUD76HjQuSYPENLSZdG8RvDB1pTLM5aLSJA",
 		"decimals": 5,
 		"name": "BSKT",
@@ -58,6 +64,12 @@
 		"decimals": 6,
 		"name": "SFarm",
 		"symbol": "SFarm"
+	},
+	{
+		"address": "4acvcTQhR2Z3TWauJZHUFaubyyEBtoybrp5QLobuCkcH",
+		"decimals": 9,
+		"name": "SOLANA",
+		"symbol": "SOLANA"
 	},
 	{
 		"address": "CQSPU12VppGZB7LeRkEaKzrRBzvo1LyA9mR2ydiwKHaL",

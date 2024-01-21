@@ -42,6 +42,12 @@
 		"symbol": "mockJUP"
 	},
 	{
+		"address": "UxxvnMnUGoXJig9wc8phE1mYJZMFq3hpfr259zMWcq4",
+		"decimals": 9,
+		"name": "mockUSDC",
+		"symbol": "mockUSDC"
+	},
+	{
 		"address": "JAmcJfhcJXrAP2neAHwBhajjmqUqPQt8Nyc42WH4LpUx",
 		"decimals": 9,
 		"name": "PLZ",

@@ -6,6 +6,12 @@
 		"symbol": "ADA"
 	},
 	{
+		"address": "BoZoQQRAmYkr5iJhqo7DChAs7DPDwEZ5cv1vkYC9yzJG",
+		"decimals": 5,
+		"name": "BOZO",
+		"symbol": "BOZO"
+	},
+	{
 		"address": "6gnCPhXtLnUD76HjQuSYPENLSZdG8RvDB1pTLM5aLSJA",
 		"decimals": 5,
 		"name": "BSKT",

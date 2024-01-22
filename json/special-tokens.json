@@ -36,6 +36,13 @@
 		"symbol": "HOPPY"
 	},
 	{
+		"address": "JRKXwVpdyQbF3A4pvQvKYj22syubbEwfwUiobDzSPtJ",
+		"chainId": 101,
+		"decimals": 9,
+		"name": "JRock",
+		"symbol": "JRK"
+	},
+	{
 		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
 		"decimals": 9,
 		"name": "MYRA",

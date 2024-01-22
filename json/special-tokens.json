@@ -24,6 +24,12 @@
 		"symbol": "CHURRO"
 	},
 	{
+		"address": "3yXPTbMqJFJDc8qRqBjjhx77AfMN53MSKSd58wabV1r9",
+		"decimals": 9,
+		"name": "DAWAE",
+		"symbol": "DAWAE"
+	},
+	{
 		"address": "JBbHqqFuidmEdAVEafnEKQmLMuomAQc5hteeAvtqCijL",
 		"decimals": 9,
 		"name": "DRAKE",

@@ -66,6 +66,12 @@
 		"symbol": "SAGA"
 	},
 	{
+		"address": "D5BFSZSNUkyGtwHgcDjtkTvPVreAcwBW68BBJdVeNk16",
+		"decimals": 0,
+		"name": "Satoshis",
+		"symbol": "SATS"
+	},
+	{
 		"address": "BjBzvw6VX7UJtrC7BaYLG1dHBiwrXP1T9j2YfDEdP4zU",
 		"decimals": 6,
 		"name": "SFarm",

@@ -61,6 +61,12 @@
 		"symbol": "mockJUP"
 	},
 	{
+		"address": "M3Mq4d3RDnHL1RU9AWh2nBSjThVWNPdHPF7vjbsccxc",
+		"decimals": 9,
+		"name": "mockMEME",
+		"symbol": "mockMEME"
+	},
+	{
 		"address": "UxxvnMnUGoXJig9wc8phE1mYJZMFq3hpfr259zMWcq4",
 		"decimals": 9,
 		"name": "mockUSDC",

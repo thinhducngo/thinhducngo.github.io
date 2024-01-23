@@ -6,6 +6,12 @@
 		"symbol": "ADA"
 	},
 	{
+		"address": "BPZ6DafPkgpiP7NXaqPvA2we8qL49r1KPT2bqS96SGwf",
+		"decimals": 9,
+		"name": "Bobo The Bear",
+		"symbol": "BOBO"
+	},
+	{
 		"address": "BoZoQQRAmYkr5iJhqo7DChAs7DPDwEZ5cv1vkYC9yzJG",
 		"decimals": 5,
 		"name": "BOZO",

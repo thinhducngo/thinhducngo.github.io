@@ -55,6 +55,18 @@
 		"symbol": "JRK"
 	},
 	{
+		"address": "7DGJnYfJrYiP5CKBx6wpbu8F5Ya1swdFoesuCrAKCzZc",
+		"decimals": 6,
+		"name": "Melon Dog",
+		"symbol": "MELON_7DG"
+	},
+	{
+		"address": "921a1GKnx3B4jSEc8M9dzT9j7oQAuioF8ejKQBGNzFQ4",
+		"decimals": 9,
+		"name": "catwifmelon",
+		"symbol": "MELON_921"
+	},
+	{
 		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
 		"decimals": 9,
 		"name": "MYRA",
@@ -77,6 +89,12 @@
 		"decimals": 9,
 		"name": "mockUSDC",
 		"symbol": "mockUSDC"
+	},
+	{
+		"address": "EfDZUYHbBUVVWsa9HEeaSXrha5rzfBrjTxZDhc9P2xWB",
+		"decimals": 9,
+		"name": "Mr.Beast Dog",
+		"symbol": "PINKY"
 	},
 	{
 		"address": "JAmcJfhcJXrAP2neAHwBhajjmqUqPQt8Nyc42WH4LpUx",
@@ -119,5 +137,11 @@
 		"decimals": 5,
 		"name": "YE",
 		"symbol": "YE"
+	},
+	{
+		"address": "HrraYRUGsiGrxDVwoeLnC5iShPdZpHVMMqJManXHDxHg",
+		"decimals": 8,
+		"name": "The Unicorn Dog",
+		"symbol": "ZOE"
 	}
 ]

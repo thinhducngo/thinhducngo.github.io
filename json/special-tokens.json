@@ -18,6 +18,12 @@
 		"symbol": "BOZO"
 	},
 	{
+		"address": "EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q",
+		"decimals": 9,
+		"name": "bozo",
+		"symbol": "bozo"
+	},
+	{
 		"address": "6gnCPhXtLnUD76HjQuSYPENLSZdG8RvDB1pTLM5aLSJA",
 		"decimals": 5,
 		"name": "BSKT",

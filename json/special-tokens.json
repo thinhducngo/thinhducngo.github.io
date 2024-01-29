@@ -48,6 +48,12 @@
 		"symbol": "DRAKE"
 	},
 	{
+		"address": "8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB",
+		"decimals": 9,
+		"name": "GameStop",
+		"symbol": "GME"
+	},
+	{
 		"address": "4J7TFP64wxUuV4C8fBQmEkQTvcEXcswfG2HCSuP1nK4J",
 		"decimals": 9,
 		"name": "HOPPY",

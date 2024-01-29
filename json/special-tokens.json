@@ -145,6 +145,12 @@
 		"symbol": "SOLANA"
 	},
 	{
+		"address": "AwRErBEFGTnohzfLeRSBH9HddQEy2oeRxnWLrbvFFh95",
+		"decimals": 6,
+		"name": "TRUMP",
+		"symbol": "TRUMP_AwR"
+	},
+	{
 		"address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
 		"decimals": 5,
 		"name": "WEN",

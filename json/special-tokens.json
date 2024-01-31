@@ -67,6 +67,12 @@
 		"symbol": "JRK"
 	},
 	{
+		"address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+		"decimals": 6,
+		"name": "Jupiter",
+		"symbol": "JUP"
+	},
+	{
 		"address": "7DGJnYfJrYiP5CKBx6wpbu8F5Ya1swdFoesuCrAKCzZc",
 		"decimals": 6,
 		"name": "Melon Dog",

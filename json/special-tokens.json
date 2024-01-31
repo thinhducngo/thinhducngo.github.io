@@ -85,6 +85,12 @@
 		"symbol": "MELON_921"
 	},
 	{
+		"address": "AQvXeBUfK5chiuTxeuAecEWJcMGgoRtaRsk3fUiGtZdu",
+		"decimals": 9,
+		"name": "Meow",
+		"symbol": "MEOW"
+	},
+	{
 		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
 		"decimals": 9,
 		"name": "MYRA",

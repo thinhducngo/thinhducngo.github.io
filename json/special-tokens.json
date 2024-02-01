@@ -36,6 +36,12 @@
 		"symbol": "CHURRO"
 	},
 	{
+		"address": "B4cYZYVYeHgLc3W1pCduCYkoS75G6roPaPdPoBCFweNJ",
+		"decimals": 9,
+		"name": "Colana",
+		"symbol": "COL"
+	},
+	{
 		"address": "3yXPTbMqJFJDc8qRqBjjhx77AfMN53MSKSd58wabV1r9",
 		"decimals": 9,
 		"name": "DAWAE",

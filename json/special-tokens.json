@@ -54,6 +54,12 @@
 		"symbol": "GME_8wX"
 	},
 	{
+		"address": "58UC31xFjDJhv1NnBF73mtxcsxN92SWjhYRzbfmvDREJ",
+		"decimals": 6,
+		"name": "HODL",
+		"symbol": "HODL"
+	},
+	{
 		"address": "4J7TFP64wxUuV4C8fBQmEkQTvcEXcswfG2HCSuP1nK4J",
 		"decimals": 9,
 		"name": "HOPPY",
@@ -89,6 +95,12 @@
 		"decimals": 9,
 		"name": "Meow",
 		"symbol": "MEOW"
+	},
+	{
+		"address": "H53UGEyBrB9easo9ego8yYk7o4Zq1G5cCtkxD3E3hZav",
+		"decimals": 6,
+		"name": "MXM",
+		"symbol": "MXM"
 	},
 	{
 		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",

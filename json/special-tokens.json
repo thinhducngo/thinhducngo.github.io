@@ -103,16 +103,10 @@
 		"symbol": "MEOW"
 	},
 	{
-		"address": "H53UGEyBrB9easo9ego8yYk7o4Zq1G5cCtkxD3E3hZav",
+		"address": "HiRx4TWNmuPK6VKxGKPSw8T7dZ9NuCrakpNpRoiCEyrA",
 		"decimals": 6,
-		"name": "MXM",
-		"symbol": "MXM"
-	},
-	{
-		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
-		"decimals": 9,
-		"name": "MYRA",
-		"symbol": "MYRA"
+		"name": "MESSI",
+		"symbol": "MESSI"
 	},
 	{
 		"address": "JxxWsvm9jHt4ah7DT9NuLyVLYZcZLUdPD93PcPQ71Ka",
@@ -131,6 +125,18 @@
 		"decimals": 9,
 		"name": "mockUSDC",
 		"symbol": "mockUSDC"
+	},
+	{
+		"address": "H53UGEyBrB9easo9ego8yYk7o4Zq1G5cCtkxD3E3hZav",
+		"decimals": 6,
+		"name": "MXM",
+		"symbol": "MXM"
+	},
+	{
+		"address": "H1aN3vcvB68eaFPbMkoAss3vnfi4AhP5C2dpnrZzdBc7",
+		"decimals": 9,
+		"name": "MYRA",
+		"symbol": "MYRA"
 	},
 	{
 		"address": "EfDZUYHbBUVVWsa9HEeaSXrha5rzfBrjTxZDhc9P2xWB",

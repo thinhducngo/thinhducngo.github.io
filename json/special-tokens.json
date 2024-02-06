@@ -175,6 +175,12 @@
 		"symbol": "SFarm"
 	},
 	{
+		"address": "5Un75eX7nnNvcHhSUr8hEHDp2SUcBpSVYefssq7zZdbk",
+		"decimals": 9,
+		"name": "Safemoon",
+		"symbol": "SFM"
+	},
+	{
 		"address": "4acvcTQhR2Z3TWauJZHUFaubyyEBtoybrp5QLobuCkcH",
 		"decimals": 9,
 		"name": "SOLANA",

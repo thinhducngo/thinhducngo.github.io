@@ -48,6 +48,12 @@
 		"symbol": "DAWAE"
 	},
 	{
+		"address": "DA742YEG6T886whxJFFFSZ48iHj5JJiJyJoDokhBa49a",
+		"decimals": 6,
+		"name": "DIAMOND",
+		"symbol": "DIAMOND_DA7"
+	},
+	{
 		"address": "JBbHqqFuidmEdAVEafnEKQmLMuomAQc5hteeAvtqCijL",
 		"decimals": 9,
 		"name": "DRAKE",

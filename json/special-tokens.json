@@ -151,6 +151,12 @@
 		"symbol": "PINKY"
 	},
 	{
+		"address": "BefMP8AV2b2cGQts49ErbZyfFGw77fKtG5jxVLwxB4L8",
+		"decimals": 9,
+		"name": "OIL",
+		"symbol": "OIL"
+	},
+	{
 		"address": "JAmcJfhcJXrAP2neAHwBhajjmqUqPQt8Nyc42WH4LpUx",
 		"decimals": 9,
 		"name": "PLZ",

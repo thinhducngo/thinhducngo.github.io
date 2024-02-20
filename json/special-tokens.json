@@ -151,6 +151,12 @@
 		"symbol": "PINKY"
 	},
 	{
+		"address": "CcdBdzNBXc8GgKqy9DA8YnXmA1HFmaRTtdfF2uPH3Lkf",
+		"decimals": 6,
+		"name": "Internet",
+		"symbol": "NET"
+	},
+	{
 		"address": "BefMP8AV2b2cGQts49ErbZyfFGw77fKtG5jxVLwxB4L8",
 		"decimals": 9,
 		"name": "OIL",

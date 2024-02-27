@@ -169,6 +169,12 @@
 		"symbol": "OIL_Bef"
 	},
 	{
+		"address": "D2yYpusqN1EEUUPtLeSLgkcp8b7SgQtv2VRJHv4cDfd6",
+		"decimals": 6,
+		"name": "PLEB",
+		"symbol": "PLEB"
+	},
+	{
 		"address": "JAmcJfhcJXrAP2neAHwBhajjmqUqPQt8Nyc42WH4LpUx",
 		"decimals": 9,
 		"name": "PLZ",

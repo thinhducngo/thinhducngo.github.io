@@ -211,6 +211,12 @@
 		"symbol": "SFM"
 	},
 	{
+		"address": "8AYt7MTy9V6o3R9PgUZwvMKKWxF13Ft1xHcGKSF2sUtG",
+		"decimals": 6,
+		"name": "SHIB",
+		"symbol": "SHIB_8AY"
+	},
+	{
 		"address": "4acvcTQhR2Z3TWauJZHUFaubyyEBtoybrp5QLobuCkcH",
 		"decimals": 9,
 		"name": "SOLANA",

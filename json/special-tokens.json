@@ -97,6 +97,12 @@
 		"symbol": "JUP"
 	},
 	{
+		"address": "BCzBBz5c6fCcRU7UjdJxszaECh7FdnU551MoQewpQv7L",
+		"decimals": 6,
+		"name": "long boi",
+		"symbol": "long_BCz"
+	},
+	{
 		"address": "7DGJnYfJrYiP5CKBx6wpbu8F5Ya1swdFoesuCrAKCzZc",
 		"decimals": 6,
 		"name": "Melon Dog",

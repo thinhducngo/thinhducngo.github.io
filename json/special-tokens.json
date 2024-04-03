@@ -235,6 +235,12 @@
 		"symbol": "TRUMP_AwR"
 	},
 	{
+		"address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+		"decimals": 6,
+		"name": "Wormhole Token",
+		"symbol": "W_85V"
+	},
+	{
 		"address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
 		"decimals": 5,
 		"name": "WEN",

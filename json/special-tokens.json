@@ -253,6 +253,12 @@
 		"symbol": "YE"
 	},
 	{
+		"address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+		"decimals": 6,
+		"name": "ZEUS",
+		"symbol": "ZEUS_ZEU"
+	},
+	{
 		"address": "HrraYRUGsiGrxDVwoeLnC5iShPdZpHVMMqJManXHDxHg",
 		"decimals": 8,
 		"name": "The Unicorn Dog",

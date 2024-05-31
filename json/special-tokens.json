@@ -145,6 +145,12 @@
 		"symbol": "mockUSDC"
 	},
 	{
+		"address": "EfRr6xyFYAwVLSV2sYt68gXwPFfUYayGpEyRoSLGRS5L",
+		"decimals": 6,
+		"name": "MOTH",
+		"symbol": "MOTH"
+	},
+	{
 		"address": "H53UGEyBrB9easo9ego8yYk7o4Zq1G5cCtkxD3E3hZav",
 		"decimals": 6,
 		"name": "MXM",
